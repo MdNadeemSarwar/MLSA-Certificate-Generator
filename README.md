@@ -1,4 +1,4 @@
-# Microsoft Learn Student Ambassador Certificate Generator
+# Microsoft Student Ambassador Certificate Generator
 <li>This project is designed to help Microsoft Learn Student Ambassadors easily generate certificates for participants.</li>
 <li>The output folder contains three types of files, Word file, PDF file, QR code file.</li>
 <li>By using this project, you can efficiently save time in generating certificates.</li>
